@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### 📫 How to reach me: yerdi.isman@gmail.com
+### 🌱 I’m currently learning IOS Development
 
 <!--
 **yerdiB/yerdiB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
